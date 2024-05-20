@@ -29,7 +29,7 @@ all_sprites = pygame.sprite.Group()
 player = Player(SCREEN_WIDTH,SCREEN_HEIGHT,WHITE)
 all_sprites.add(player)
 obstacles = pygame.sprite.Group()
-quit_button = Button(RED, 700, 10, 80, 40)
+quit_button = Button(RED, 700, 10, 80, 40,'Quit')
 all_sprites = pygame.sprite.Group()
 all_sprites.add(quit_button)
 
