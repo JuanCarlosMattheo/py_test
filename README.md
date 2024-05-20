@@ -2,5 +2,5 @@
 ### My Game
 This ist my game!
 * sdf
-* dsf
-
+* dsf  
+This is Joan, hello!
